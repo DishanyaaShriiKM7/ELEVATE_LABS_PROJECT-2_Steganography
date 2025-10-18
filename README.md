@@ -121,11 +121,11 @@ Contributions welcome! Please:
 ### Decoding Tab
 ![Decoding](https://github.com/DishanyaaShriiKM7/ELEVATE_LABS_PROJECT-2_Steganography/blob/main/Screenshot_2025-10-18_12_14_14.png)
 
-** Results
-**
+### Results
 ![Result1](https://github.com/DishanyaaShriiKM7/ELEVATE_LABS_PROJECT-2_Steganography/blob/main/Screenshot_2025-10-18_12_15_52.png)
 
 ![Result2](https://github.com/DishanyaaShriiKM7/ELEVATE_LABS_PROJECT-2_Steganography/blob/main/Screenshot_2025-10-18_12_18_43.png)
+
 
 ---
 
