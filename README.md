@@ -110,6 +110,25 @@ Contributions welcome! Please:
 
 ---
 
+## 📸 Screenshots
+
+### Main Interface
+![Main Window](https://github.com/DishanyaaShriiKM7/ELEVATE_LABS_PROJECT-2_Steganography/blob/main/Screenshot_2025-10-18_12_07_20.png)
+
+### Encoding Tab
+![Encoding](https://github.com/DishanyaaShriiKM7/ELEVATE_LABS_PROJECT-2_Steganography/blob/main/Screenshot_2025-10-18_12_11_23.png)
+
+### Decoding Tab
+![Decoding](https://github.com/DishanyaaShriiKM7/ELEVATE_LABS_PROJECT-2_Steganography/blob/main/Screenshot_2025-10-18_12_14_14.png)
+
+###** Results**
+
+![Result1](https://github.com/DishanyaaShriiKM7/ELEVATE_LABS_PROJECT-2_Steganography/blob/main/Screenshot_2025-10-18_12_15_52.png)
+
+![Result2](https://github.com/DishanyaaShriiKM7/ELEVATE_LABS_PROJECT-2_Steganography/blob/main/Screenshot_2025-10-18_12_18_43.png)
+
+---
+
 ## 📄 License
 
 This project is developed for educational purposes as part of a cybersecurity internship.
@@ -123,8 +142,8 @@ This project is developed for educational purposes as part of a cybersecurity in
 **Name:** [Dishanyaa Shrii K M]  
 **Internship:** Cybersecurity Domain  
 **Email:** [dishanyaaofficial@gmail.com]  
-**LinkedIn:** [[Your LinkedIn](https://www.linkedin.com/in/dishan2807/)]  
-**GitHub:** [@yourusername](https://github.com/DishanyaaShriiKM7)
+**LinkedIn:** [(https://www.linkedin.com/in/dishan2807/)]  
+**GitHub:** [(https://github.com/DishanyaaShriiKM7)
 
 ---
 
